@@ -16,7 +16,7 @@ Identificar as tecnologias mais populares com base no volume de perguntas da com
 
 Conforme demonstrado no gráfico abaixo, JavaScript e Python lideram o volume de interações, refletindo sua dominância no mercado atual.
 
-![Gráfico de Tags](./grafico_stackoverflow.png)
+![Gráfico de Tags](./images/grafico_stackoverflow.png)
 
 ## Tecnologias Utilizadas
 - SQL
