@@ -1,24 +1,24 @@
-# Análise de Tags do Stack Overflow
+# Stack Overflow Tags Analysis
 
-Este projeto demonstra a extração e visualização de dados utilizando BigQuery e SQL. 
+This project demonstrates data extraction and visualization using BigQuery and SQL.
 
-## Objetivo
+## Objective
 
-Identificar as tecnologias mais populares com base no volume de perguntas da comunidade global de desenvolvedores no Stack Overflow.
+Identify the most popular technologies based on the volume of questions from the global developer community on Stack Overflow.
 
-## Estrutura
+## Structure
 
-- **dataset/**: Contém o arquivo `dados_tags.csv` extraído do BigQuery.
-- **sql_queries/**: Contém o script `consulta_tags.sql` usado para a extração.
-- **images/**: Prints dos resultados e visualizações.
+- **dataset/**: Contains the `dados_tags.csv` file extracted from BigQuery.
+- **sql_queries/**: Contains the `consulta_tags.sql` script used for extraction.
+- **images/**: Screenshots of results and visualizations.
 
 ## Insights
 
-Conforme demonstrado no gráfico abaixo, JavaScript e Python lideram o volume de interações, refletindo sua dominância no mercado atual.
+As shown in the chart below, JavaScript and Python lead the volume of interactions, reflecting their dominance in the current market.
 
-![Gráfico de Tags](./images/grafico_stackoverflow.png)
+![Tags Chart](./images/grafico_stackoverflow.png)
 
-## Tecnologias Utilizadas
+## Technologies Used
 - SQL
 - BigQuery
 - Dataset: bigquery-public-data.stackoverflow.tags
